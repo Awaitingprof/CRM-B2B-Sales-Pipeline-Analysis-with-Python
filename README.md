@@ -12,7 +12,7 @@ The analysis was designed to answer four core business questions:
 4. Do certain products demonstrate stronger win rates or revenue potential?
 In addition, Is understanding opportunity volume, sales outcomes, deal values, customer characteristics, product performance, regional differences, and relationships between key variables.
 ## Datasets
-The project uses five interconnected CSV files:
+The project uses five interconnected CSV files
 ### Dataset	             ### Description
 - Accounts.csv	        Customer account information, including industry, revenue, employees,                            location, and parent company
 - Products.csv	        Product catalogue containing product series and sales prices
